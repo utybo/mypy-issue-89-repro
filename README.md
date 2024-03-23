@@ -4,7 +4,7 @@ Installation: `poetry install`, then open the repository in VS Code.
 
 ## Expected
 
-When opening the VS Code repository from the root, the Mypy extension should display the same errors as running `mypy`:
+When opening the VS Code repository from the root, the Mypy extension should display the same errors as running `mypy` in the `my-python-project` folder:
 
 ```sh
 $ poetry run mypy .
