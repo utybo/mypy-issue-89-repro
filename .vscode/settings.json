@@ -1,0 +1,5 @@
+{
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "mypy.runUsingActiveInterpreter": true,
+  "mypy.configFile": "my-python-project/mypy.ini"
+}
